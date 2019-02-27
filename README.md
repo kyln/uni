@@ -36,6 +36,7 @@ Your submission will be assessed using the following Aspects.
 #   Journal Instructions    #
 #                           #
 #############################
+
 Section 6.2 of your textbook describes incremental development. Do the exercise at the end of that section:
 
 As an exercise, use incremental development to write a function called hypotenuse that returns the length of the hypotenuse of a right triangle given the lengths of the other two legs as arguments. Record each stage of the development process as you go. (Downey, 2015)
